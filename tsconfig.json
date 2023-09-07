@@ -6,5 +6,7 @@
   },
   "files": ["src/n5-serie-two.tsx"],
   "include": ["src/**/*"],
-  "exclude": ["src/**/*.test*"]
+  "exclude": ["src/**/*.test*"],
+  "types": ["node", "jest", "@testing-library/jest-dom"],
+
 }

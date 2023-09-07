@@ -41,11 +41,7 @@ const resources = {
 }
 i18n.use(initReactI18next).init({
   resources,
-  lng: 'en',
-  debug: true,
-  interpolation: {
-    escapeValue: false
-  }
+  lng: 'en'
 })
 
 export default i18n

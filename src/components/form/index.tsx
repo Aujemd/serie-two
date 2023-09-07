@@ -1,4 +1,3 @@
-import React from 'react'
 import { IForm } from '../types/form'
 import { useTranslation } from 'react-i18next'
 import { FormContainer, FormInput, FormButton } from './styles'
